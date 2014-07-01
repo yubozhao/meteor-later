@@ -1,0 +1,8 @@
+{
+  "name": "later-js",
+  "description": "Meteor package wrapped around later.js",
+  "homepage": "https://github.com/yubozhao/meteor-later",
+  "author": "Bozhao Yu <yubz86@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/yubozhao/meteor-later.git"
+}
